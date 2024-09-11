@@ -1,2 +1,2 @@
 # Static Site Generator
-## *"If the world was ending"*
+# *"If the world was ending"*
