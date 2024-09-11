@@ -8,7 +8,8 @@ Favorite Games
 - Apex Legends
 
 Favorite Music Artists
-1. Zayn Malik
-2. Laufey
-3. Bruno Mars
-4. Khalid
+- Zayn Malik
+- Laufey
+- Bruno Mars
+- Frank Ocean
+- RINI
