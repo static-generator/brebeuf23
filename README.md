@@ -1,5 +1,6 @@
 # Static Site Generator
-*"If the world was ending"*
+### Liam Matthew V. Llamado
+# *"If the world was ending"*
 
 ---
 Favorite Games
@@ -13,3 +14,6 @@ Favorite Music Artists
 - Bruno Mars
 - Frank Ocean
 - RINI
+
+Favorite Songs
+Die With A Smile -Bruno Mars 
