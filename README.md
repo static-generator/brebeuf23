@@ -14,6 +14,7 @@ Favorite Music Artists
 - Bruno Mars
 - Frank Ocean
 - RINI
+- Daniel Caesar
 
 Favorite Songs
-Die With A Smile -Bruno Mars 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/51iucM73sAvdf55Dypzo59?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
